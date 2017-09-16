@@ -3,8 +3,8 @@
     <version value="1"/><!--数据库版本 -->
     <list>
         <!--将 Province、City、County这三个实体类添加到映射列表当中-->
-        <mapping class="com.weatherreport.android.db.Province"/>
-        <mapping class="com.weatherreport.android.db.City"/>
-        <mapping class="com.weatherreport.android.db.County"/>
+        <mapping class="com.example.weatherreport.db.Province"/>
+        <mapping class="com.example.weatherreport.db.City"/>
+        <mapping class="com.example.weatherreport.db.County"/>
     </list>
 </litepal>
